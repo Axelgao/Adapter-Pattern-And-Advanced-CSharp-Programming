@@ -1,0 +1,9 @@
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\T4VTNZ\T4VTNZ\bin\Debug\T4VTNZ.exe.config
+C:\Users\gaosh\OneDrive\Documents\Visual Studio 2015\Projects\T4VTNZ\T4VTNZ\obj\Debug\T4VTNZ.Form1.resources
+C:\Users\gaosh\OneDrive\Documents\Visual Studio 2015\Projects\T4VTNZ\T4VTNZ\obj\Debug\T4VTNZ.Properties.Resources.resources
+C:\Users\gaosh\OneDrive\Documents\Visual Studio 2015\Projects\T4VTNZ\T4VTNZ\obj\Debug\T4VTNZ.csproj.GenerateResource.Cache
+C:\Users\gaosh\OneDrive\Documents\Visual Studio 2015\Projects\T4VTNZ\T4VTNZ\bin\Debug\T4VTNZ.exe
+C:\Users\gaosh\OneDrive\Documents\Visual Studio 2015\Projects\T4VTNZ\T4VTNZ\bin\Debug\T4VTNZ.pdb
+C:\Users\gaosh\OneDrive\Documents\Visual Studio 2015\Projects\T4VTNZ\T4VTNZ\obj\Debug\T4VTNZ.exe
+C:\Users\gaosh\OneDrive\Documents\Visual Studio 2015\Projects\T4VTNZ\T4VTNZ\obj\Debug\T4VTNZ.pdb
+C:\Users\gaosh\OneDrive\Documents\Visual Studio 2015\Projects\T4VTNZ\T4VTNZ\obj\Debug\T4VTNZ.csprojResolveAssemblyReference.cache
